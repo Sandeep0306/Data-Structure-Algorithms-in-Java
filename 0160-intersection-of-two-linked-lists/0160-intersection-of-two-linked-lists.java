@@ -23,7 +23,7 @@ public class Solution {
     }
 }
 
- // Using Set Approach if node1 set contains node2 we will simply return that Node Time Complexity : O(N +M) , Space: O(1)
+ // Using Set Approach if node1 set contains node2 we will simply return that Node Time Complexity : O(N +M) , Space: O(N)
 
 //  public class Solution {
 //     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
